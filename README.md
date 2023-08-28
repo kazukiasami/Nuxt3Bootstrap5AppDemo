@@ -1,4 +1,4 @@
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+パプアニューギニア
 
 # Nuxt 3 Minimal Starter
 
